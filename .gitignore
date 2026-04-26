@@ -1,0 +1,13 @@
+*.vs
+*.vscode
+*Debug
+*Release
+*x64
+*packages
+*bin/
+*obj/
+Version.ini
+game.exe
+tip.txt
+update.saf
+update.sah
